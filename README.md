@@ -32,6 +32,7 @@
 ![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<br />
 
 <!--
 **laurenCho9/laurenCho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
