@@ -21,7 +21,6 @@
 
 
 ## Interestings
-<br />
 - Next, Vue, Jest
 - Flutter, React Native
 - Jest
