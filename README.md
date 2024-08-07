@@ -6,11 +6,14 @@
 
 **style**
 <br />
-- HTML5, CSS3, SCSS, styled components, Bootstrap
+- HTML5, CSS3
+- SCSS, styled components, Bootstrap
 
 **Collaboration tools**
 <br />
-- GitHub, Notion, Slack, Trello, Figma
+- GitHub
+- Figma
+- Notion, Slack, Trello
 
 **Deploy**
 <br />
