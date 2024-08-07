@@ -2,17 +2,17 @@
 **Skill**
 <br />
 - JavaScript, React, React Router, Redux, React Query, TypeScript
-<br />
+
 **style**
 <br />
 - HTML5, CSS3, SCSS, styled components, Bootstrap
-<br />
+
 **Deploy**
 <br />
 - Netlify, Vercel, Firebase
 
 ## Collaboration tools
-GitHub, Notion, Slack, Trello, Figma
+- GitHub, Notion, Slack, Trello, Figma
 
 ## Interestings
 ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
