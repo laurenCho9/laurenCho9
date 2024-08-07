@@ -1,7 +1,7 @@
 ## Web
 **Skill**
 <br />
-JavaScript, React, React Router, Redux, React Query, TypeScript
+- JavaScript, React, React Router, Redux, React Query, TypeScript
 <br />
 **style**
 <br />
