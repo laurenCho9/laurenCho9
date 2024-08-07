@@ -8,12 +8,14 @@
 <br />
 - HTML5, CSS3, SCSS, styled components, Bootstrap
 
+**Collaboration tools**
+<br />
+- GitHub, Notion, Slack, Trello, Figma
+
 **Deploy**
 <br />
 - Netlify, Vercel, Firebase
 
-## Collaboration tools
-- GitHub, Notion, Slack, Trello, Figma
 
 ## Interestings
 ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
