@@ -5,11 +5,11 @@
 <br />
 **style**
 <br />
-HTML5, CSS3, SCSS, styled components, Bootstrap
+- HTML5, CSS3, SCSS, styled components, Bootstrap
 <br />
 **Deploy**
 <br />
-Netlify, Vercel, Firebase
+- Netlify, Vercel, Firebase
 
 ## Collaboration tools
 GitHub, Notion, Slack, Trello, Figma
