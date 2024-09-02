@@ -2,12 +2,13 @@
 **Skill**
 <br />
 - JavaScript, TypeScript
-- React, React Router, Redux, React Query
+- React, React Router, Redux, Zustand
+- React Query
 
 **style**
 <br />
 - HTML5, CSS3
-- SCSS, styled components, Bootstrap
+- SCSS, Styled Components, Bootstrap, Tailwind
 
 **Collaboration tools**
 <br />
