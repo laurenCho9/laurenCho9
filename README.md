@@ -11,7 +11,7 @@
 - SCSS, CSS Modules, Styled Components, Bootstrap, Tailwind
 
 **Database**
-Firestore, Realtime Database
+- Firestore, Realtime Database(Firebase)
 
 **Collaboration tools**
 <br />
