@@ -30,10 +30,10 @@
 
 
 ## Interestings
-- Next, Vue, Jest
-- Flutter, React Native
+- Next, Vue
+- React Native, Flutter
 - Jest, MSW
-- Mui, tailwind
+- Mui, Ant Design
   
 
 <!--
