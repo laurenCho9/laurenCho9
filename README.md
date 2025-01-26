@@ -5,10 +5,13 @@
 - React, React Router, Redux, Zustand
 - React Query
 
-**style**
+**Style**
 <br />
 - HTML5, CSS3
 - SCSS, CSS Modules, Styled Components, Bootstrap, Tailwind
+
+**Database**
+Firestore, Realtime Database
 
 **Collaboration tools**
 <br />
