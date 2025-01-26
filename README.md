@@ -8,12 +8,12 @@
 **style**
 <br />
 - HTML5, CSS3
-- SCSS, Styled Components, Bootstrap, Tailwind
+- SCSS, CSS Modules, Styled Components, Bootstrap, Tailwind
 
 **Collaboration tools**
 <br />
-- GitHub
-- Figma
+- GitHub, GitLab
+- Figma, Photoshop
 - Notion, Slack, Trello
 
 **Deploy**
