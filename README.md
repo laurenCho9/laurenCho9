@@ -11,6 +11,7 @@
 - SCSS, CSS Modules, Styled Components, Bootstrap, Tailwind
 
 **Database**
+<br />
 - Firestore, Realtime Database (Firebase)
 
 **Collaboration tools**
@@ -23,11 +24,15 @@
 <br />
 - Netlify, Vercel, Firebase
 
+**Testing Tools**
+<br />
+- ~~MSW~~
+
 
 ## Interestings
 - Next, Vue, Jest
 - Flutter, React Native
-- Jest
+- Jest, MSW
 - Mui, tailwind
   
 
