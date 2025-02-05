@@ -2,7 +2,7 @@
 **Skill**
 <br />
 - JavaScript, TypeScript
-- React, React Router, Redux, Zustand
+- React, React Router, Context API, Redux, Zustand
 - React Query
 
 **Style**
