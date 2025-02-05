@@ -33,7 +33,8 @@
 - Next, Vue
 - React Native, Flutter, Kotlin
 - Jest, MSW
-- Java, Spring
+- Java, Spring, Python, Django
+- SQL, Docker
   
 
 <!--
