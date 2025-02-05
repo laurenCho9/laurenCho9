@@ -8,11 +8,11 @@
 **Style**
 <br />
 - HTML5, CSS3
-- SCSS, CSS Modules, Styled Components, Bootstrap, Tailwind
+- SCSS, CSS Modules, Styled Components, Bootstrap, Tailwind, Vanilla Extract
 
 **Database**
 <br />
-- Firestore, Realtime Database (Firebase)
+- Firebase: Firestore, Realtime Database
 
 **Collaboration tools**
 <br />
@@ -31,9 +31,9 @@
 
 ## Interestings
 - Next, Vue
-- React Native, Flutter
+- React Native, Flutter, Kotlin
 - Jest, MSW
-- Mui, Ant Design
+- Java, Spring
   
 
 <!--
