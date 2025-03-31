@@ -24,11 +24,6 @@
 <br />
 - Netlify, Vercel, Firebase
 
-**Testing Tools**
-<br />
-- ~~MSW~~
-
-
 ## Interestings
 - Next, Vue
 - React Native, Flutter, Kotlin
