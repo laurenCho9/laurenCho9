@@ -3,7 +3,7 @@
 <br />
 - JavaScript, TypeScript
 - React, React Router, Context API, Redux, Zustand
-- React Query
+- TanStack Query(React Query)
 
 **Style**
 <br />
