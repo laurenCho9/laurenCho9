@@ -1,6 +1,11 @@
-## Web
-**Skill**
-<br />
+## ✏️Studying...
+- Flutter
+- Next
+- Vue
+
+## Skill
+### Web
+**Front**
 - JavaScript, TypeScript
 - React, React Router, Zustand, Context API, Redux
 - TanStack Query(React Query)
@@ -23,11 +28,6 @@
 **Deploy**
 <br />
 - Netlify, Vercel, Firebase
-
-## Studying
-- Flutter
-- Next
-- Vue
 
 ## Interestings
 - React Native, Kotlin
