@@ -2,7 +2,7 @@
 **Skill**
 <br />
 - JavaScript, TypeScript
-- React, React Router, Context API, Redux, Zustand
+- React, React Router, Zustand, Context API, Redux
 - TanStack Query(React Query)
 
 **Style**
@@ -18,18 +18,22 @@
 <br />
 - GitHub, GitLab
 - Figma, Photoshop
-- Notion, Slack, Trello
+- Notion, Slack, Trello, JANDI, Jira
 
 **Deploy**
 <br />
 - Netlify, Vercel, Firebase
 
+## Studying
+- Flutter
+- Next
+- Vue
+
 ## Interestings
-- Next, Vue
-- React Native, Flutter, Kotlin
+- React Native, Kotlin
 - Three.js
 - Jest, MSW
-- Java, Spring, Python, Django
+- Node Express, Nest, Java, Spring, Python, Django
 - SQL, Docker
   
 
