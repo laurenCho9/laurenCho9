@@ -1,6 +1,13 @@
 ## 공부중
 - Next
 - Figma UIUX
+- 26학번 방송통신대학교 3학년 편입학
+  - 파이썬프로그래밍기초
+  - 이산수학
+  - Java프로그래밍
+  - 인공지능
+  - 데이터베이스시스템
+  - 디지털논리회로
 
 ## 기술 스택
 ### 프론트엔드
@@ -28,5 +35,8 @@
 ### 배포 환경
 - Netlify, Vercel, AWS Amplify, Firebase
 
+### 경험
+- React Native expo, Oauth(kakao, google), 문자인증(Naver SENS)
+
 ### 관심사
-- 
+- Node, Jest, QA, CS, Python, AI, Three.js, SQL, Database, Docker, Flutter, Vue ...
